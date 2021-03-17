@@ -1,0 +1,81 @@
+[{
+	"key": "okzy",
+	"name": "OK 资源网",
+	"api": "https://cj.okzy.tv/inc/apickm3u8s.php",
+	"isActive": true
+}, {
+	"key": "mahuazy",
+	"name": "麻花资源",
+	"api": "https://www.mhapi123.com/inc/api.php",
+	"isActive": true
+}, {
+	"key": "zuidazy",
+	"name": "最大资源网",
+	"api": "http://www.zdziyuan.com/inc/api_zuidam3u8.php",
+	"isActive": true
+}, {
+	"key": "zuixinzy",
+	"name": "最新资源",
+	"api": "https://api.zuixinapi.com/inc/apixinm3u8.php",
+	"isActive": true
+}, {
+	"key": "1886zy",
+	"name": "1886 资源",
+	"api": "http://cj.1886zy.co/inc/zkm3u8.php",
+	"isActive": true
+}, {
+	"key": "123ku",
+	"name": "123 资源",
+	"api": "https://www.123ku.com/inc/sea123kum3u8.php",
+	"isActive": true
+}, {
+	"key": "subo988",
+	"name": "速播资源站",
+	"api": "https://www.subo988.com/inc/api.php",
+	"isActive": false
+}, {
+	"key": "kuaibo",
+	"name": "快播云",
+	"api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/",
+	"isActive": true
+}, {
+	"key": "apibdzy",
+	"name": "百度云资源",
+	"api": "https://api.apibdzy.com/api.php/provide/vod/at/xml",
+	"isActive": true
+}, {
+	"key": "605",
+	"name": "605 资源网",
+	"api": "http://www.605zy.co/inc/605m3u8.php",
+	"isActive": true
+}, {
+	"key": "zklg",
+	"name": "宅看(蓝光高清)",
+	"api": "https://www.zhaikanys.com/api.php/provide/vod/at/xml/",
+	"isActive": true
+}, {
+	"key": "tky",
+	"name": "天空云",
+	"api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/",
+	"isActive": true
+}, {
+	"key": "jhy",
+	"name": "聚合云",
+	"api": "https://cj.cbi88.com/inc/api_juhem3u8s.php",
+	"isActive": true
+}, {
+	"key": "bjy",
+	"name": "八戒云",
+	"api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
+	"isActive": true
+}, {
+	"key": "rrzy",
+	"name": "人人资源",
+	"api": "https://www.rrzyw.cc/api.php/provide/vod/from/rrm3u8/at/xml/",
+	"isActive": true
+}, {
+	"key": "88zy",
+	"name": "88 影视资源站",
+	"api": "https://www.88zyw.xyz/inc/mzp.php",
+	"isActive": true
+}]
